@@ -1,6 +1,6 @@
 # Task
 
-![Image of UX Workflow](./ux-workflow.png)
+![Image of UX Workflow](./src/ux-workflow.png)
 
 ## View 1
 - User can interact with 2 form fields to enter the appropriate values
