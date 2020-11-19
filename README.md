@@ -1,6 +1,19 @@
 # Task
 
-![Image of UX Workflow](./ux_workflow.png)
+![Image of UX Workflow](./ux-workflow.png)
+
+## View 1
+- User can interact with 2 form fields to enter the appropriate values
+- Entered values into the commit count field should be either a number, or set to a default value
+- Upon hitting `Search`, the user is taken to [View 2](#view-2)
+
+## View 2
+- `back` button takes the user back to [View 1](#view-1)
+- the title shows you the repo that you are investigating
+- display the number of commits that was requested, as a list
+- each list item contains the author's username and the commit hash
+- when a user hovers over an author's name, a small overlay with additional information is displayed to the user, including their avatar, name, bio, and location
+
 
 # APIs
 
